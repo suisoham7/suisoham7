@@ -21,13 +21,11 @@ I'm a Robotics & AI student interested in **Robotics, Artificial Intelligence, a
 - Robotics
 - Software Development
 
-## 🚀 Projects & Academic Work
+## 🚀 Projects
 
-- 🤖 6-DOF Robot Simulation
-- 🦾 Pneumatic Soft Robotic Hand
-- ⚙️ MATLAB / Simulink Robotics Projects
-- 💻 Java & Programming Projects
-- 📊 Data Structures & Algorithms
+Currently building my project portfolio.
+
+More projects coming soon.
 
 ## 🎯 Career Interests
 
